@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alaa Attiya</h1>
+<h1 align="center">Hi 👋, I'm Alaa Atiya</h1>
 <h3 align="center">A passionate Web Development from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaaatiya&label=Profile%20views&color=0e75b6&style=flat" alt="alaaatiya" /> </p>
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Convulsive seizure detection and notification system**
 
-- 🌱 I’m currently learning **Laravel,JS**
+- 🌱 I’m currently learning **php , laravel **
 
-- 👯 I’m looking to collaborate on **fashion websites for women**
+- 👯 I’m looking to collaborate on **websites **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alaaatiya](https://github.com/Alaaatiya)
 
